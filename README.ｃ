@@ -21,3 +21,4 @@ int main(){
      printf("Heads: %d, Tails: %d\n",j,k);
     return 0;
 }
+
